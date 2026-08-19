@@ -4,16 +4,16 @@ A collection of game memory dumps and related data, currently focused on **Count
 
 ## What even is this?
 
-This repository contains dumps captured from games for analysis, reverse engineering, and SDK work. If you're not sure whether you need these files, you probably don't — this is a resource for people poking around at game internals.
+This repository contains dumps captured from games for analysis, reverse engineering, and SDK work. If you're not sure whether you need these files, you probably don't - this is a resource for people poking around at game internals.
 
 ## Contents
 
-- `cs2/` — Memory / structure dumps from Counter-Strike 2
+- `cs2/` - Memory / structure dumps from Counter-Strike 2
 
 ## Credits
 
-- **[cs2-sdk.com](https://cs2-sdk.com)** — helped with examples
-- **[Qernix Jitter](https://qernix.com/jitter)** — tools and assistance used for this project
+- **[cs2-sdk.com](https://cs2-sdk.com)** - helped with examples
+- **[Qernix Jitter](https://qernix.com/jitter)** - tools and assistance used for this project
 
 ## Disclaimer
 
